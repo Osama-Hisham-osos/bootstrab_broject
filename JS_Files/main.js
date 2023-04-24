@@ -29,5 +29,5 @@ function linkedin() {
 }
 
 function github() {
-    window.open("https://www.github.com/Osama-Hesham-osos", "_self");
+    window.open("https://github.com/Osama-Hesham-osos", "_self");
 }
